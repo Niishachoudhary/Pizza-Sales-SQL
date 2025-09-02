@@ -1,0 +1,7 @@
+,,,,,Entity Relationship Diagram,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Pizza_Types,,,,,Pizzas,,,,,,Order_Details,,,,,Orders,
+,Pizza_Type_Id,,,,,Pizza_Id,,,,,PK,Order_Details_Id,,,,PK,Order_Id
+,Name,,,,,Pizza_Type_Id,,,,,FK,Order_Id,,,,,Date
+,Category,,,,,Size,,,,,,Pizza_Id,,,,,Time
+,Ingredients,,,,,Price,,,,,,Quantity,,,,,
