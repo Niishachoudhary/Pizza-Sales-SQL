@@ -169,6 +169,7 @@ group by category, name) as all_detail) as all_detail_rank
 where rnk <= 3;
 
 CONCLUSION
+
 The Pizza Sales Analysis project using SQL provided valuable insights into customer preferences, sales trends, and revenue drivers.
 By leveraging SQL queries, I identified top-selling pizzas, peak order times, and high-revenue categories, which can help businesses 
 optimize inventory, pricing strategies, and marketing campaigns. This project demonstrates the power of SQL in transforming raw 
